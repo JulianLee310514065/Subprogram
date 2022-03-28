@@ -10,6 +10,16 @@ One of the most commonly used post hoc tests is Tukey’s Test, which allows us 
 
 This tutorial provides a step-by-step example of how to perform Tukey’s Test in Python.
 
+One-Way ANOVA: Assumptions (有母數檢定)
+---
+For the results of a one-way ANOVA to be valid, the following assumptions should be met:
+
+1. Normality – Each sample was drawn from a normally distributed population.
+
+2. Equal Variances – The variances of the populations that the samples come from are equal. You can use Bartlett’s Test to verify this assumption.
+
+3. Independence – The observations in each group are independent of each other and the observations within groups were obtained by a random sample.
+
 
 Step 1: Load Necessary Packages and Functions
 ---
@@ -22,7 +32,7 @@ from scipy.stats import f_oneway
 from statsmodels.stats.multicomp import pairwise_tukeyhsd
 ```
 
-Step 2: Fit the ANOVA Model
+Step 2: Fit the ANOVA Model (多變數全部之間)
 ---
 The following code shows how to create a fake dataset with three groups (A, B, and C) and fit a one-way ANOVA model to the data to determine if the mean values for each group are equal:
 
@@ -44,7 +54,7 @@ Since this is less than .05, we have sufficient evidence to say that the mean va
 Thus, we can proceed to perform Tukey’s Test to determine exactly which group means are different.
 
 
-Step 3: Perform Tukey’s Test
+Step 3: Perform Tukey’s Test (多變數兩兩之間)
 ---
 To perform Tukey’s test in Python, we can use the pairwise_tukeyhsd() function from the statsmodels library:
 
