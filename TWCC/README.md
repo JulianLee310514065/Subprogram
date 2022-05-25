@@ -15,7 +15,7 @@
 > 創CSS、創VM、創各種神奇的東西
 
 ## TWCC - CSS
-[TWCC/TWCC - CSS.md](https://github.com/JulianLee310514065/Miscellaneous/blob/main/TWCC/TWCC%20-%20CSS.md)
+[TWCC - CSS](https://github.com/JulianLee310514065/Miscellaneous/blob/main/TWCC/TWCC%20-%20CSS.md)
 * 重點 : **創完開始收費 !!!!，不要用請刪掉**
 * 用途 : 創 Container，來跑Code
 
@@ -26,6 +26,7 @@
 
 
 ## TWCC - HFS
+[TWCC - HFS](https://github.com/JulianLee310514065/Miscellaneous/blob/main/TWCC/TWCC%20-%20HFS.md)
 * 用途 : 存Model、存parameter
 * 工具 : 需用 filezela 接 SFTP
 * 小孩子才要 kaggle，我都用 HFS
@@ -36,6 +37,7 @@
 
 
 ## TWCC - VCS、VNW = VM
+[TWCC - VM](https://github.com/JulianLee310514065/Miscellaneous/blob/main/TWCC/TWCC%20-%20VM.md)
 * 用途 : 虛擬空間，沒有 GPU，但可以跑 cpu能跑的東西
 * 工具 : 需先創 VNW(虛擬網路)才能使用VCS(虛擬運算)
 
