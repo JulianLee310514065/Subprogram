@@ -16,22 +16,33 @@
 
 ## TWCC - CSS
 [TWCC/TWCC - CSS.md](https://github.com/JulianLee310514065/Miscellaneous/blob/main/TWCC/TWCC%20-%20CSS.md)
+* 重點 : **創完開始收費 !!!!，不要用請刪掉**
+* 用途 : 創 Container，來跑Code
 
 ## TWCC - HPC
+[台灣杉二號](https://www.nchc.org.tw/Page?itemid=2&mid=4)
+* 用途 : 很強
+* 工具 : 先不要亂動
 
 
 ## TWCC - HFS
 * 用途 : 存Model、存parameter
-* 工具 : 需用 filezela 接 SFTP,
+* 工具 : 需用 filezela 接 SFTP
+* 小孩子才要 kaggle，我都用 HFS
 
 
 ## TWCC - COS
+* 用途 : 組員間的資料共享
 
 
 ## TWCC - VCS、VNW = VM
+* 用途 : 虛擬空間，沒有 GPU，但可以跑 cpu能跑的東西
+* 工具 : 需先創 VNW(虛擬網路)才能使用VCS(虛擬運算)
 
 
 ## TWCC - WCS - VDS
+* 用途 : 可以接再 VM 上的硬碟，可增加空間
+* 工具 : 買就好
 
 ---
 ##　實際跑分
