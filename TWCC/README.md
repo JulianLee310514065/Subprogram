@@ -47,4 +47,6 @@
 * 工具 : 買就好
 
 ---
-##　實際跑分
+
+## 實際跑分
+[實際跑分](https://github.com/JulianLee310514065/Miscellaneous/blob/main/TWCC/%E8%B7%91%E5%88%86.md)
