@@ -5,7 +5,7 @@
 
 # 內容分三段 (3 + 1)
 
-### [環境架設](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/README.md)
+### [0. 環境架設](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/README.md)
 
 [1. Model 製作](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/Model_with_dataset.md)
 
@@ -21,7 +21,7 @@ CSDN或是[MMseg官網](https://mmsegmentation.readthedocs.io/en/latest/train.ht
 
 --- 
 
-## 0. 環境架設 -> 信我一把，環境好了，之後的程序就是喝水
+## 環境架設 -> 信我一把，環境好了，之後的程序就是喝水
 
 我們要依序解決兩個問題，**mmcv + torch + cuda** 問題，我這裡稱第一個問題，第二個問題，**cv2的問題**
  
