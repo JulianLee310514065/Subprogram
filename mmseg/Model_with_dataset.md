@@ -52,7 +52,7 @@ data:
 
 ![image](https://user-images.githubusercontent.com/101493861/170879081-d1754a12-3ca0-4f95-94e6-da05aed9048a.png)
 
-* [dataset - stare](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/dataset_stare.py) : `dataset_stare.py` -> 這邊要改**你的mask的顏色**，還比說你要切割貓狗，可能就要把貓的mask用成綠色，狗的用成藍色，**記住還要背景**。
+* [STAREDataset](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/dataset_stare.py) : `dataset_stare.py` -> 這邊要改**你的mask的顏色**，還比說你要切割貓狗，可能就要把貓的mask用成綠色，狗的用成藍色，**記住還要背景**。
 
 ```
 變動: 
