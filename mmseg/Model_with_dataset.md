@@ -3,15 +3,17 @@
 ### [0. 環境架設](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/README.md)
 
 [1. Model 製作](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/Model_with_dataset.md)
+
 2. Train
-3. Test
+3. 
+4. Test
 
 ---
 ## Model的製作 (改現成的)
 
 
-* **主要運作**: 把 主幹引入，再用**改dictionary的方式**微調
-* **目的** : 跑 `!sh tools/dist_train.sh configs/swin/upernet_swin_base_patch4_window7_512x512_160k_ade20k_pretrain_224x224_1K.py 4`
+* **主要運作**: 把**通用檔案**引入，再用**改dictionary的方式**微調
+* **目的** : 想跑`!sh tools/dist_train.sh configs/swin/upernet_swin_base_patch4_window7_512x512_160k_ade20k_pretrain_224x224_1K.py 4`
 * **思路** :
 1. 想跑 `tools/dist_train.sh configs/swin/upernet_swin_base_patch4_window7_512x512_160k_ade20k_pretrain_224x224_1K.py`，發現是俄羅斯娃娃，裡面還有別的.py
 
