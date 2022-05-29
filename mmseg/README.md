@@ -7,7 +7,7 @@
 
 ### [0. 環境架設](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/README.md)
 
-1. Model 製作
+[1. Model 製作](https://github.com/JulianLee310514065/Miscellaneous/blob/main/mmseg/Model_with_dataset.md)
 2. Train
 3. Test
 
