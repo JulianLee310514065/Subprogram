@@ -1,5 +1,5 @@
 # Google_Translate_API
-> 透過Google雲端提供的API資源
+> 透過Google雲端提供的API資源翻譯爬蟲刮下來的英文新聞
 
 ## 步驟
 1. [需先開通Google Cloud服務](https://console.cloud.google.com/freetrial/signup/tos?hl=zh-tw)
