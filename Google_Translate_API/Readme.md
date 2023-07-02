@@ -5,8 +5,9 @@
 1. [需先開通Google Cloud服務](https://console.cloud.google.com/freetrial/signup/tos?hl=zh-tw)
 2. [Quickstart](https://cloud.google.com/translate/docs/quickstarts?hl=zh_TW)
 3. 建立Project $\rightarrow$ 開通API
-4. 下載金鑰、設置環境變數
-5. 透過Python使用API
+4. [建立服務帳戶及下載金鑰](https://support.google.com/a/answer/7378726?hl=zh-Hant)
+5. 設置環境變數
+6. 透過Python使用Google Translate API
 
 ## 開通Google Cloud服務、Quickstart、建立Projec、開通API
 基本上照上面的說明做就可以了，Google有給新加入的人300美金的免費試用會員。
