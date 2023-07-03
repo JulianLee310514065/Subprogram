@@ -17,4 +17,7 @@
 * 存放: 如何使用Google Cloud Platform並透過Google Translate API來翻譯爬蟲爬下來的新聞
 * 簡介: 英文不好，Google來補，Google會提供新帳戶300美元的試用，且時間到了也會有每月免費額度，好好使用可以讓生活方便很多。
 
-## 4. mmseg
+## 4. MMsegmentation
+* 存放: MMsegmentation手把手教學
+* 簡介: 當初在打肺腺癌切割比賽的時候，有想嘗試Transfomer去做語意切割，故找到這個[Github - mmsegmentation
+](https://github.com/open-mmlab/mmsegmentation)，但因為並未使用過這種訓練模式的套包，所以研究了好一陣子。
