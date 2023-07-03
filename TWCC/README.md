@@ -29,7 +29,7 @@
 [TWCC - HFS](https://github.com/JulianLee310514065/Miscellaneous/blob/main/TWCC/TWCC%20-%20HFS.md)
 * 用途 : 存Model、存parameter
 * 工具 : 需用 filezela 接 SFTP
-* 小孩子才要 kaggle，我都用 HFS
+* 小孩子才要 Kaggle API，我都用 HFS
 
 
 ## TWCC - COS
