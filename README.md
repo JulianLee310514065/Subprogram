@@ -14,5 +14,7 @@
 * 簡介: 感謝[比賽](https://tbrain.trendmicro.com.tw/Competitions/Details/22)讓我們實驗室有五台V100*8的怪物，畢竟好像只有兩周，紀錄一下機會難得的時光。
 
 ## 3. Google_Translate_API
+* 存放: 如何使用Google Cloud Platform並透過Google Translate API來翻譯爬蟲爬下來的新聞
+* 簡介: 英文不好，Google來補，Google會提供新帳戶300美元的試用，且時間到了也會有每月免費額度，好好使用可以讓生活方便很多。
 
 ## 4. mmseg
