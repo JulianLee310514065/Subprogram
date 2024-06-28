@@ -1,0 +1,3 @@
+參照: https://ithelp.ithome.com.tw/articles/10077046安裝SVN
+
+透過這個 https://www.runoob.com/svn/tortoisesvn-intro.html checkout
